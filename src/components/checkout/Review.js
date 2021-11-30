@@ -9,7 +9,7 @@ import { useMemo } from 'react';
 import useOrders from '../../Hooks/useOrders';
 import usePrototypes from '../../Hooks/usePrototypes';
 
-const addresses = ['Bundang-gu', 'Seongnam-si', 'Gyeonggi-do', '13629', 'KR'];
+const addresses = ['Bundang-gu', 'Seongnam-si', 'Gyeonggi-do', '92631', 'KR'];
 const payments = [
   { name: 'Card type', detail: 'Visa' },
   { name: 'Card holder', detail: 'Soohyun Choi' },
