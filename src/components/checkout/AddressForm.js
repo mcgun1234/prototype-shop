@@ -56,7 +56,7 @@ export default function AddressForm() {
             fullWidth
             autoComplete="shipping address-line2"
             variant="standard"
-            defaultValue="184, Migeum-ro, 109-904"
+            defaultValue="Migeum-ro"
           />
         </Grid>
         <Grid item xs={12} sm={6}>
@@ -90,7 +90,7 @@ export default function AddressForm() {
             fullWidth
             autoComplete="shipping postal-code"
             variant="standard"
-            defaultValue="13629"
+            defaultValue="92631"
           />
         </Grid>
         <Grid item xs={12} sm={6}>
